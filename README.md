@@ -13,3 +13,6 @@
 ## 📂 Download
 
 You can download the project demo from [this link](https://drive.google.com/file/d/14jH5JmfCYuuSEjq2d_GeWxA1q_gydZZY/view?usp=drive_link).
+## 🎥 Demo Video
+
+You can watch the demo video by [clicking here]([https://drive.google.com/file/d/your_video_id/view?usp=sharing](https://drive.google.com/file/d/1mDKAF76EOEGDpXOdtyEziN-UAcnlMY-2/view?usp=drive_link)).
